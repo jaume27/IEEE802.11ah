@@ -1,0 +1,1 @@
+# Modificació codis python NRC
