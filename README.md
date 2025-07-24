@@ -1,2 +1,2 @@
 ## Exploració de l’estàndard IEEE802.11ah WiFi HaLow
-Script to test diferent configurations of Wifi HaLow with iperf3
+Parlem de l'estàndard 11ah pensat per solucions IoT, trobaràs una memòria utlitzant el xip AHPI7292S
