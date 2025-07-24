@@ -4,7 +4,7 @@ L'objectiu d'aquest codi es el d'automatitzar la recolecció de dades com el thr
 > Aquest codi només funcionarà per el mòdul AHPI7292S, ja que les modificacions de les configuracions es fan a partir dels evk que ens suministra el client.
 
 ### Configuracions aplicació
-```shell
+```bash
 ######### CONFIGURACIÓ PROVES #########
 
 # Nom fitxer resultats
