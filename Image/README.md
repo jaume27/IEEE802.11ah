@@ -9,7 +9,9 @@ Per tal d'utilitzar el HAT d’Alfa Networks, cal instal·lar la imatge de progr
 1.  Primer de tot, s’ha de gravar la imatge en una targeta SD per inserir-la a la Raspberry Pi. Aquesta imatge és compatible amb les **Raspberry Pi 3B+ i models superiors**.
 2.  Per fer-ho, cal utilitzar l'eina oficial **Raspberry Pi Imager**, que es pot descarregar des de la seva pàgina web: [https://www.raspberrypi.com/software/](https://www.raspberrypi.com/software/)
 <img width="419" height="295" alt="image" src="https://github.com/user-attachments/assets/d2dfbd4b-82c7-45bc-97a7-cbd4c16ddb8b" />
+
 ---
+
 #### Procés d'Instal·lació amb Raspberry Pi Imager
 
 1.  Un cop s’hagi descarregat i obert el programari.
@@ -26,4 +28,5 @@ Un cop finalitzat el procés, la targeta SD estarà llesta per ser inserida a la
 
 
 Link de descàrrega imatge web Alpha networks [IMATGE](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBdnpWUW5jOW9WT2FoYU5xb2pXOG05bWkwclE2bUE%5FZT1PWDNrZ1A&cid=9A53A13D7742D5FC&id=9A53A13D7742D5FC%2186506&parId=9A53A13D7742D5FC%2186492&o=OneUp)
-[!WARNING] Si no funciona el link de descàrrega la imatge es troba en aquest directori [IMATGE](Image)
+> [!WARNING]
+> Si no funciona el link de descàrrega la imatge es troba en aquest directori [IMATGE](Image)
