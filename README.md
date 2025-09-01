@@ -4,3 +4,7 @@ La memòria completa la pots trobar en el següent [link](Memoria11ah.pdf)
 
 ---
 
+### Menu repositori
+1. Instal·lació de la imatge preconfigurada [#](Image)
+2. Script d'automatització obtenció de resultats [#](TestScript)
+
