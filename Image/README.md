@@ -29,4 +29,4 @@ Un cop finalitzat el procés, la targeta SD estarà llesta per ser inserida a la
 
 Link de descàrrega imatge web Alpha networks [IMATGE](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBdnpWUW5jOW9WT2FoYU5xb2pXOG05bWkwclE2bUE%5FZT1PWDNrZ1A&cid=9A53A13D7742D5FC&id=9A53A13D7742D5FC%2186506&parId=9A53A13D7742D5FC%2186492&o=OneUp)
 > [!WARNING]
-> Si no funciona el link de descàrrega la imatge es troba en aquest directori [IMATGE](Image)
+> Si no funciona el link de descàrrega la imatge es troba en aquest directori [IMATGE](2022-04-04-raspios-bullseye-armhf_halow_nrc7292_1.3.4_2022-04-18.img.xz)
